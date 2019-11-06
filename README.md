@@ -1,4 +1,8 @@
 https://eventbriteyy.herokuapp.com/
+La dernière version est plus aboutie. Pour cela 
+télécharger le fichier et le lancer en local. J'ai des bugs 
+pour le mettre en production. c'est cours de réglage
+
 
 
 Projet : Eventbrite : Devise et premières views
