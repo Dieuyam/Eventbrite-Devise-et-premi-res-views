@@ -2,6 +2,7 @@ https://eventbriteyy.herokuapp.com/
 La dernière version est plus aboutie. Pour cela 
 télécharger le fichier et le lancer en local. J'ai des bugs 
 pour le mettre en production. c'est cours de réglage
+( A voir dans https://eventbriteyy2.herokuapp.com/ )
 
 
 
